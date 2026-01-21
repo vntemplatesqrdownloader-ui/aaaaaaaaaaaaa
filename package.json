@@ -15,9 +15,3 @@
     "node": ">=18.0.0"
   }
 }
-```
-
-### **35. `.env` file banao:**
-```
-HF_API_TOKEN=your_huggingface_token_here
-PORT=10000
